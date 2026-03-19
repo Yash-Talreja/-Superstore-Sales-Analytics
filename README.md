@@ -1,5 +1,5 @@
 🏬 Superstore Sales Analytics
-<p align="center"> <img src="YOUR_IMAGE_LINK_HERE" width="850"/> </p>
+<p align="center"> <img src="Screenshot 2026-02-25 203152.png" width="850"/> </p>
 
 📊 Project Overview
 Built a dynamic and interactive sales analytics dashboard to analyze Superstore data across multiple dimensions including region, segment, and product categories. The goal was to transform raw data into actionable insights for improving profitability.
